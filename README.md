@@ -1,4 +1,4 @@
-# custom-ipv4-dns
+# custom-ipv4-dns-server
 Custom-IPv4-DNS Server
 
 Python 3.6
