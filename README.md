@@ -7,16 +7,18 @@ Python 3.6
 
 2. Of the "CustomDNSResolver" class Modify the variable "customDomainDictionary".
 
-  ex) 'mydomain.co.kr': FORWARDING_IPV4_ADDRESS,
+  ex:
+      'mydomain.co.kr': FORWARDING_IPV4_ADDRESS,
 
 3. Start the Custom-IPv4-DNS server.
 
-  usage)
-    python.exe dns3.py
+  usage: 
+      python.exe dns3.py
   
 4. Test at Windows Command Prompt
 
-  c:\> nslookup mydomain.co.kr 127.0.01
+  c:\>
+      nslookup mydomain.co.kr 127.0.01
 
 
 Enjoy.
