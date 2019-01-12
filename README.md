@@ -21,7 +21,13 @@ Python 3.6
   
 4. Test at Windows Command Prompt
 <pre>
-  c:\> nslookup mydomain.co.kr 127.0.0.1
+  c:\&gt; nslookup mydomain.co.kr 127.0.0.1
+    Server:    UnKnown
+    Address:  127.0.0.1
+
+    Name:    mydomain.co.kr
+    Addresses:  192.168.0.201
+              192.168.0.201
 </pre>
 
 
