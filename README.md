@@ -8,7 +8,7 @@ Python 3.6
 2. Of the "CustomDNSResolver" class Modify the variable "customDomainDictionary".
 <pre>
   ex)
-      'mydomain.co.kr': <YOUR_IPv4_ADDRESS>,
+      'mydomain.co.kr': &lt;YOUR_IPv4_ADDRESS&gt;,
       'mydomain.co.kr': '192.168.0.201',
       'yourdomain.co.kr': '192.168.0.205',
 </pre>
