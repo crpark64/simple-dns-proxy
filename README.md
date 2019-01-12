@@ -1,6 +1,16 @@
 # custom-ipv4-dns-server
 Custom-IPv4-DNS Server
 
+This is a Custom IPv4 DNS server.
+
+I personally created it for testing mobile phone apps.
+
+I wanted to make it possible for the app to connect to a specific IP address on my mobile phone.
+
+By using this custom DNS server, I was able to connect a specific domain to a specific IP (my personal web server in my case).
+
+
+
 Python 3.6
 
 1. Add the domain and address you want to the source. (dns3.py)
