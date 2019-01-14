@@ -1,4 +1,4 @@
-# custom-dns-server (Custom DNS Proxy, IPv4 only)
+# custom-dns-server (DNS Proxy, IPv4 only)
 Custom DNS Server (IPv4 only)
 
 This is a Custom DNS server. (IPv4 only)
