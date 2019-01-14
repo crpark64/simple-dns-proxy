@@ -1,7 +1,7 @@
-# custom-ipv4-dns-server
-Custom-IPv4-DNS Server
+# custom-dns-server (Custom DNS Proxy, IPv4 only)
+Custom DNS Server (IPv4 only)
 
-This is a Custom IPv4 DNS server.
+This is a Custom DNS server. (IPv4 only)
 
 I personally created it for testing mobile phone apps.
 
