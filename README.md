@@ -42,4 +42,4 @@ Python 3.6
 </pre>
 
 
-Enjoy.
+Enjoy!
