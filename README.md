@@ -12,7 +12,18 @@ By using this custom DNS server, I was able to connect a specific domain to a sp
 If there is no DNS information, you will receive an address from Google's DNS. You can also get it from another DNS server.
 (The default when there is no address is the Google DNS server.)
 
-Python 3.6
+I tested it with Python 3.7.3 (Windows, AMD64).
+
+If you can not start the DNS server, please execute the following command.
+<pre>
+    pip install certifi
+    pip install chardet
+    pip install dnslib
+    pip install idna
+    pip install requests
+    pip install urllib3
+</pre>
+
 
 1. Add the domain and address you want to the source. (dns3.py)
 
