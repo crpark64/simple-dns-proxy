@@ -18,8 +18,13 @@ import sys
 # using opensource - dnslib, requests
 currPath = os.path.dirname(os.path.realpath(__file__))
 
+sys.path.append(currPath + './certifi-2019.3.9')
+sys.path.append(currPath + './chardet-3.0.4')
 sys.path.append(currPath + './dnslib-0.9.7')
-sys.path.append(currPath + './requests-2.19.1')
+sys.path.append(currPath + './idna-2.8')
+sys.path.append(currPath + './requests-2.21.0')
+sys.path.append(currPath + './urllib3-1.24.1')
+
 
 import requests
 
