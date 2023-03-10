@@ -3,7 +3,7 @@ Custom DNS Server (IPv4 only)
 
 This is a Custom DNS server. (IPv4 only, Standalone)
 
-I personally created it for testing mobile phone apps.
+Personally created it for testing mobile phone apps.
 
 I wanted to make it possible for the app to connect to a specific IP address on my mobile phone.
 
@@ -12,7 +12,7 @@ By using this custom DNS server, I was able to connect a specific domain to a sp
 If there is no DNS information, you will receive an address from Google's DNS. You can also get it from another DNS server.
 (The default when there is no address is the Google DNS server.)
 
-I tested it with Python 3.7.3 (Windows, AMD64).
+Tested it with Python 3.7.3 (Windows, AMD64).
 
 
 1. Add the domain and address you want to the source. (dns3.py)
